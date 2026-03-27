@@ -1,0 +1,97 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    background-color: #ea0404;
+    margin: 20px;
+}
+
+img {
+    height: 90%;
+    width: 70%;
+}
+
+nav {
+    margin-left: 25px;
+    margin-top: 35px;
+}
+
+.basic-heading {
+    border: solid rgb(255, 255, 255) 2px;
+
+    background-color: rgb(255, 0, 0);
+    margin: 15px;
+    padding: 15px;
+    width: 500px;
+}
+
+.basic-heading2 {
+    border: solid rgb(255, 255, 255) 2px;
+
+    background-color: rgb(255, 0, 0);
+    margin: 5px;
+    padding: 15px;
+    width: 500px;
+}
+
+.basic-heading3 {
+    border: solid rgb(255, 255, 255) 2px;
+
+    background-color: rgb(255, 0, 0);
+    margin: 5px;
+    padding: 25px;
+    width: 800px;
+}
+
+#sjokolade {
+    height: 40%;
+    width: 28%;
+    border-radius: 45%;
+    margin: 15px;
+    padding: 5px;
+}
+
+#fabrikk {
+    height: 55%;
+    width: 30%;
+    border-radius: 10%;
+    margin: 15px;
+    padding: 5px;
+}
+
+#linje {
+    height: 55%;
+    width: 30%;
+    border-radius: 10%;
+    margin: 15px;
+    padding: 5px;
+}
+
+#lasting {
+    height: 55%;
+    width: 30%;
+    border-radius: 10%;
+    margin: 15px;
+    padding: 5px;
+}
+
+.main-content {
+    font-family: "Trebuchet MS";
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    font-family: "Trebuchet MS";
+    font-size: 120%;
+}
+
+section {
+    font-family: "Trebuchet MS";
+    font: x-large;
+    height: 60%;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
